@@ -4,3 +4,5 @@ Descipline
 God fairing
 faithful
 Open minded
+
+	GOOD %
